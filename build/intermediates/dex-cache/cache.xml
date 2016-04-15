@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sai\AndroidStudioProjects\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.pushbots\pushbots-lib\2.0.13\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="635a77d3f219ad345f4b82dba86e4aabe4f35b94">
+        <dex dex="C:\Users\sai\AndroidStudioProjects\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\release\classes-b05cae6dac4970151ae2282ee151ee80b711b03f.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\AndroidStudioProjects\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\sai\AndroidStudioProjects\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\release\classes-145bcb5bc79737c9153ce6a543a04487d8b00bfd.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\AndroidStudioProjects\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\sai\AndroidStudioProjects\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\release\classes-7f799f2606b52e16a7cd8b145aec1edb795b14f1.jar" />
+    </item>
+    <item
+        jar="F:\Program Files\AppData\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\sai\AndroidStudioProjects\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\release\support-annotations-23.0.1-f99bfddb3d049d71dff9616be6e6a235edce7997.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\AndroidStudioProjects\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\sai\AndroidStudioProjects\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\release\classes-40d702cda37dd7fd72ba08a35c601829c2915b93.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\AndroidStudioProjects\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\sai\AndroidStudioProjects\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\release\classes-9d02513eac2d78e5c8dd9449167089a47a7d6ca7.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\AndroidStudioProjects\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\sai\AndroidStudioProjects\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\release\classes-25b9613c4856db8b9e02afb20611172dff13671a.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\AndroidStudioProjects\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\sai\AndroidStudioProjects\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\release\classes-e12509415f9c793e5b85a0f2db7b4229087e31c2.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\AndroidStudioProjects\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\sai\AndroidStudioProjects\AndroidLoginAndRegistration v2\AndroidLoginAndRegistration\app\build\intermediates\pre-dexed\release\internal_impl-23.0.1-ea60e34fd01e189c06bac8cfd3f4f1653b9e0f2d.jar" />
+    </item>
+
+</items>

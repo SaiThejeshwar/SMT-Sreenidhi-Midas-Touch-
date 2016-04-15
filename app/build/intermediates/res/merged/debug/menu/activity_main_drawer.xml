@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item android:id="@+id/nav_about"
+            android:icon="@drawable/ic_description_black_24dp"
+            android:title="About Us" />
+        <item android:id="@+id/nav_renewal"
+            android:icon="@drawable/ic_fingerprint_black_24dp"
+            android:title="Renewal" />
+        <item android:id="@+id/nav_partner"
+        android:icon="@drawable/ic_partner"
+        android:title="Partners" />
+        <item android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_supervisor_account_black_24dp"
+            android:title="Contact Us" />
+        <item android:id="@+id/nav_notification"
+            android:icon="@drawable/ic_notify"
+            android:title="Live Updates" />
+        <item android:id="@+id/nav_location"
+            android:icon="@drawable/ic_place_black_24dp"
+            android:title="Location" />
+
+
+
+    </group>
+</menu><!-- From: file:/C:/Users/sai/AndroidStudioProjects/AndroidLoginAndRegistration%20v2/AndroidLoginAndRegistration/app/src/main/res/menu/activity_main_drawer.xml -->

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="650dp"
+    android:fillViewport="true"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="500dp"
+        android:id="@+id/content_main"
+        android:background="@drawable/about"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:showIn="@layout/app_bar_main">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="About SMT"
+            android:id="@+id/textView2"
+            android:layout_gravity="center_horizontal"
+            android:capitalize="words"
+            android:textColor="#000000"
+            android:textColorHighlight="#eb08f7"
+            android:textSize="30sp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="104dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:id="@+id/textView3"
+            android:text="\n\n\t\t\tSMT(Sreenidhi Midas Touch) bookmarks an important achievement in the history
+             of SNIST,being the one of the first ever Campus Company in the college"
+            android:layout_gravity="right"
+            android:capitalize="sentences"
+            android:textAlignment="inherit"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:layout_below="@+id/textView2"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+    </RelativeLayout>
+</ScrollView><!-- From: file:/C:/Users/sai/AndroidStudioProjects/AndroidLoginAndRegistration%20v2/AndroidLoginAndRegistration/app/src/main/res/layout/layout_about.xml -->
